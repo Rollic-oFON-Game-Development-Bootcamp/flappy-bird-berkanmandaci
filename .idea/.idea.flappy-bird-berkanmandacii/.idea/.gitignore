@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.flappy-bird-berkanmandacii.iml
+# Datasource local storage ignored files
+/../../../../../../../../:\Projeler\BootCamp\flappy-bird-berkanmandaci\flappy-bird-berkanmandacii\.idea\.idea.flappy-bird-berkanmandacii\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
