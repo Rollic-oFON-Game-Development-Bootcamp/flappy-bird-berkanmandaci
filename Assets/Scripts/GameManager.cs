@@ -23,6 +23,6 @@ public class GameManager : MonoBehaviour
 
     public void FinishGame()
     {
-        canvas.gameObject.SetActive(false);
+        canvas.gameObject.SetActive(true);
     }
 }
